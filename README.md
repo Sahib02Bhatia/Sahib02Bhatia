@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sahib02Bhatia
-- 🎓 I’m a Masters Student at San Jose State University pursuing Computer Software Engineering in Data Science.
+- 🎓 I’m a Masters Student at San Jose State University 
+pursuing Computer Software Engineering in Data Science.
 - 💻 I’m a tech enthusiast.
 - 📫 Find me on GitHub https://github.com/Sahib02Bhatia
 
